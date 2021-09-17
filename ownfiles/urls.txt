@@ -1,4 +1,4 @@
-[URL01] https://github.com/mohameddosamaa74/project-3.git
+[URL01] https://github.com/mohameddosamaa74/udacity-project-3.git
 
 [URL02] http://udapeople-bceedd02-865a-4535-80dc-e5c8b65b3215.s3-website.us-east-1.amazonaws.com/
 	
