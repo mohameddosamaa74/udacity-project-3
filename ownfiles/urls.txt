@@ -1,0 +1,9 @@
+[URL01] https://github.com/mohameddosamaa74/project-3.git
+
+[URL02] http://udapeople-bceedd02-865a-4535-80dc-e5c8b65b3215.s3-website.us-east-1.amazonaws.com/
+	
+[URL03] http://d12uaip6izoe4b.cloudfront.net/
+
+[URL04] http://ec2-52-87-236-245.compute-1.amazonaws.com:3030/api/status
+
+[URL05]  http://ec2-54-167-99-127.compute-1.amazonaws.com:9090/
